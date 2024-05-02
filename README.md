@@ -9,16 +9,10 @@ git clone https://github.com/aqeelanwar/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
 python main.py
 ```
+![img1](https://github.com/shubhampawar17/Tic_Tac_Toe/assets/99556115/78db01f9-1d23-4ef0-a232-0e4fa1d88f23)
 
-<p align="center">
-<img src="/images/preview.gif">
-</p>
+![img2](https://github.com/shubhampawar17/Tic_Tac_Toe/assets/99556115/4676e10e-eaed-4e6f-a971-d68b19e5954b)
 
-## Screenshots
-<p align="center">
-<img width=1000 src="/images/screenshot.png">
-
-</p>
 
 ## Controls
 1. Player X starts the game
@@ -29,6 +23,5 @@ python main.py
 
 
 
-## Author
-[Aqeel Anwar](https://www.prism.gatech.edu/~manwar8)
+
 
